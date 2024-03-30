@@ -1,0 +1,10 @@
+x.switch {
+    cursor: pointer;
+  }
+  
+  .switch img {
+    width: 100px;
+    height: auto;
+    display: block; /* Para centrar la imagen */
+    margin: 0 auto; /* Para centrar la imagen */
+  }
